@@ -1,5 +1,11 @@
-# fruit_classification-from-Fruit_360-dataset
-this fruit_360 dataset is used.
-Three maachine learning algorithm is used saparately for the classification and the result would be compared.
+This project is all about fruit classificaton using differnet machine learning algorithms .
+The Dataset we used isFRUIT_360 dataset from Kaggle.
+Dataset :- https://www.kaggle.com/moltean/fruits
 
+______________________________________________________________________________________________
 
+we run this code on google colab.
+we use three classification algorithm 
+1)KNN
+2)Decision tree
+3)SVM
